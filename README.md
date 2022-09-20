@@ -1,6 +1,6 @@
 # Victor Nilsson
 
-I am a .NET student at IT-Högskolan Göteborg, currently looking to get started as a developer with an internship (LIA).
+I am a .NET student at IT-Högskolan Göteborg, currently doing an internship(LIA) at Jelly Hive.
 
 
 | Course | Description | Projects |
