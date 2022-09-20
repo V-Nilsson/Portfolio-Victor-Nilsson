@@ -5,7 +5,7 @@ I am a .NET student at IT-Högskolan Göteborg, currently doing an internship(LI
 
 | Course | Description | Projects |
 |--------|-------------|----------|
-|C#      |Introduction course to understand the basics of programming | https://github.com/V-Nilsson/Labb3 |
+|C#      |Introduction course to understand the basics of object oriented programming | https://github.com/V-Nilsson/Labb3 |
 |Databases| Learning SQL, MongoDB| https://github.com/V-Nilsson/SQL-project |
 |Webdevelopment with .NET| Also included HTML/CSS, JavaScript, API, Blazor etc| https://github.com/V-Nilsson/WebbUtv-Labb-1 <br> https://github.com/ITHS-gbg/labb-2-back-end-V-Nilsson|
 |Agile Development|||
